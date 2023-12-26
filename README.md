@@ -1,5 +1,5 @@
 # 💫 About Me:
-Passionate Product Manager in BFSI Industry<br>Aspiring Data Scientist<br>Interested in  Physics and Computation<br>
+Business Analyst in BFSI Industry<br>Aspiring Data Scientist<br>Interested in  Physics and Computation<br>
 
 
 ## 🌐 Socials:

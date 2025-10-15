@@ -1,5 +1,5 @@
 # 💫 About Me:
-Business Analyst in BFSI Industry<br>Aspiring Data Scientist<br>Interested in  Physics and Computation<br>
+Data Scientist<br>Interested in  Physics and Computation<br>
 
 
 ## 🌐 Socials:
